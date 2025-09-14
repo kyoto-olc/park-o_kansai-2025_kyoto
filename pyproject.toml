@@ -1,0 +1,27 @@
+[project]
+name = "park-kyoto-2025-program"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "sphinx",
+    "myst-parser",
+    "sphinx-nefertiti",
+    "sphinx-markdown-tables",
+    "sphinxcontrib-actdiag",
+    "sphinxcontrib-applehelp",
+    "sphinxcontrib-blockdiag",
+    "sphinxcontrib-seqdiag",
+    "sphinxcontrib-devhelp",
+    "sphinxcontrib-htmlhelp",
+    "sphinxcontrib-jquery",
+    "sphinxcontrib-jsmath",
+    "sphinxcontrib-nwdiag",
+    "sphinxcontrib-qthelp",
+    "sphinxcontrib-seqdiag",
+    "sphinxcontrib-serializinghtml",
+    "sphinxcontrib-youtube",
+    "docxbuilder",
+    "sphinx-autobuild>=2024.10.3",
+]
