@@ -1,5 +1,5 @@
 
-# 概要
+# 実施要項
 
 ```{csv-table}
 :widths: 3,7
@@ -24,8 +24,6 @@
 イベントアドバイザー,塩平 真士（OLP兵庫）
 ```
 
-# 実施要項
-
 ## 会場とアクセス
 
 会場
@@ -39,9 +37,13 @@
 自家用車
     : 公園駐車場 P1 P2 が利用可能です。
 
-![](https://www.sandanike-kouen.or.jp/wp-content/uploads/2022/10/map.jpeg){align=center}
+```{figure} https://www.sandanike-kouen.or.jp/wp-content/uploads/2022/10/map.jpeg
+:align: center
 
 （公財）福知山市都市緑化協会 三段池公園 WEBサイトより引用
+
+[https://www.sandanike-kouen.or.jp/map/](https://www.sandanike-kouen.or.jp/map/)
+```
 
 ## 競技情報
 
@@ -63,6 +65,7 @@
 
 ````{list-table}
 :widths: 7,3
+:header-rows: 1
 
 - * クラス
   * 参加費、適用
@@ -101,6 +104,8 @@
 
 ````{list-table}
 :widths: 7,3
+:header-rows: 1
+
 - * クラス
   * 参加費、適用
 - * ```{csv-table}
@@ -119,7 +124,7 @@
         : 無料
 ````
 
-```{tip}
+```{attention}
 * 年齢は2026年3月31日内の終わりまでに達する年齢です。
 * 各クラス優勝設定時間は12-15分の予定です。競技時間は1時間です。
 * 前年度ツアー優勝の招待選手もエントリー必要です。
